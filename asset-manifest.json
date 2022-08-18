@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Team-Work/static/css/main.7acaea2f.css",
+    "main.js": "/Team-Work/static/js/main.07d3183d.js",
+    "index.html": "/Team-Work/index.html",
+    "main.7acaea2f.css.map": "/Team-Work/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Team-Work/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
